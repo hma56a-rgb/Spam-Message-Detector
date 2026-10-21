@@ -1,0 +1,6 @@
+{
+  "threshold": 0.69,
+  "test_precision": 0.9675,
+  "test_recall": 0.9084,
+  "test_f1": 0.937
+}
